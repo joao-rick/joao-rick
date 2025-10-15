@@ -11,8 +11,8 @@ Apaixonado por criar soluções eficientes e escaláveis, com código limpo e bo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-rick&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-rick&layout=compact&theme=dracula)
 
 ### 📫 Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joao-ric/)
