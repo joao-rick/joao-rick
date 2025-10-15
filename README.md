@@ -1,7 +1,14 @@
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=120&section=header&text=João%20Ricardo%20👨‍💻&fontSize=40&fontColor=ffffff&fontAlignY=55)
+
 # 👋 Olá, eu sou João Ricardo
+
+💬 *"Um bom programador é aquele que não consegue dormir até resolver o problema."*  
 
 Sou desenvolvedor **Full Stack** com foco em **React**, **Node.js**, **Python** e **automação com IA**.  
 Apaixonado por criar soluções eficientes e escaláveis, com código limpo e boas práticas de desenvolvimento.
+
+---
 
 ### 🚀 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -13,6 +20,8 @@ Apaixonado por criar soluções eficientes e escaláveis, com código limpo e bo
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
+---
+
 ### 💼 Principais Áreas de Atuação
 - Desenvolvimento **Full Stack** (React + Node.js + Python)
 - Criação de **APIs REST** e **automação de processos**
@@ -20,10 +29,13 @@ Apaixonado por criar soluções eficientes e escaláveis, com código limpo e bo
 - Banco de dados relacionais e não relacionais
 - Boas práticas: **Clean Code**, **SOLID** e **Testes automatizados**
 
+---
+
 ### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-rick&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-rick&layout=compact&theme=dracula)
+
+---
 
 ### 📫 Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joao-ric/)
